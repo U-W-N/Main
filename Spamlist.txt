@@ -10,7 +10,7 @@
 		'https://www.blogger.com/profile/09920701150806652297',
 		'https://www.blogger.com/profile/00843003399671756091',
 		'https://www.blogger.com/profile/07636178297385017458',
-   	'https://www.blogger.com/profile/08772718537735430542',
+   		'https://www.blogger.com/profile/08772718537735430542',
 		'https://www.blogger.com/profile/07172358439239987747',
 		'https://www.blogger.com/profile/04971508286670830232',
 		'https://www.blogger.com/profile/04472557161469080062',
@@ -24,7 +24,11 @@
 		'https://www.blogger.com/profile/05980139619888054139',
 		'https://www.blogger.com/profile/16757978640333323554',
 		'https://www.blogger.com/profile/14491732687490903145',
-		'https://www.blogger.com/profile/17203065982251299511'
+		'https://www.blogger.com/profile/17203065982251299511',
+		'https://www.blogger.com/profile/17779374999991565195',
+		'https://www.blogger.com/profile/08283608839418580836',
+		'https://www.blogger.com/profile/03525199504469178389',
+		'https://www.blogger.com/profile/07590929556364404350'
     ];
 
 
